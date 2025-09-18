@@ -27,7 +27,7 @@ All values must be >0.
 Example:
 
 ```
-./panoramix 3 5 3 1
+> ./panoramix 3 5 3 1
 Villager 0: Going into battle!
 Villager 0: I need a drink... I see 5 servings left.
 Villager 0: Take that roman scum! Only 2 left.
