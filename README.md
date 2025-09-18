@@ -2,7 +2,7 @@
 
 ## Context
 
-The year is 50 BC. Gaul is entirely occupied by the Romans. Well, not entirely../ One small village of indomitable Gauls still holds out against the invaders. And life is not easy for the Roman legionaries who garrison the fortified camps of Totorum, Aquarium, Laudanum and Compendium... In this village the druid prepares a cooking pot of magic potions. The villagers get a serving of potion and then procede to beat roman soldiers. When the pot is empty, the villager wakes up the druid and waits until the druid has refilled the pot.
+The year is 50 BC. Gaul is entirely occupied by the Romans. Well, not entirely...One small village of indomitable Gauls still holds out against the invaders. And life is not easy for the Roman legionaries who garrison the fortified camps of Totorum, Aquarium, Laudanum and Compendium... In this village the druid prepares a cooking pot of magic potions. The villagers get a serving of potion and then procede to beat roman soldiers. When the pot is empty, the villager wakes up the druid and waits until the druid has refilled the pot.
 
 The purpose of this project is to study examples of threads and mutex programming and the algorithmic difficulties that go with it.
 
